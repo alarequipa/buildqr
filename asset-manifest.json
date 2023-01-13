@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qrtic/static/css/main.9b97f70a.css",
+    "main.js": "/qrtic/static/js/main.5c739e7d.js",
+    "static/js/787.2e705ec0.chunk.js": "/qrtic/static/js/787.2e705ec0.chunk.js",
+    "static/media/background.png": "/qrtic/static/media/background.2e33a7809f8e4beee0d0.png",
+    "static/media/fondo.png": "/qrtic/static/media/fondo.93294f9d969d94a34b4f.png",
+    "static/media/NunitoSans-Bold.ttf": "/qrtic/static/media/NunitoSans-Bold.022586a78ea7c9bee9da.ttf",
+    "static/media/NunitoSans-Black.ttf": "/qrtic/static/media/NunitoSans-Black.b6a9ed3db8aa0a3a38d6.ttf",
+    "static/media/NunitoSans-Regular.ttf": "/qrtic/static/media/NunitoSans-Regular.a427ddbe4dc20889d6e0.ttf",
+    "static/media/fondoqr.png": "/qrtic/static/media/fondoqr.15ba5359d71c05a3399f.png",
+    "static/media/estadodigitaltic.png": "/qrtic/static/media/estadodigitaltic.40d01f9a7ebde923ed1d.png",
+    "index.html": "/qrtic/index.html",
+    "main.9b97f70a.css.map": "/qrtic/static/css/main.9b97f70a.css.map",
+    "main.5c739e7d.js.map": "/qrtic/static/js/main.5c739e7d.js.map",
+    "787.2e705ec0.chunk.js.map": "/qrtic/static/js/787.2e705ec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b97f70a.css",
+    "static/js/main.5c739e7d.js"
+  ]
+}
